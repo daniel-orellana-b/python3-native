@@ -1,0 +1,10 @@
+requirements:
+ - python3
+ - pip
+ - firefox browser
+
+install dependency:
+ - pip install selenium
+ 
+run the test:
+ - python3 script.py
